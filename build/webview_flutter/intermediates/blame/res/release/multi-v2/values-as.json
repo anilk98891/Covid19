@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/anil/Documents/Projects/Self/GitHUB/Covid19/fluttercovid19/build/webview_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "/Users/anil/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/anil/Documents/Projects/Self/GitHUB/Covid19/fluttercovid19/build/webview_flutter/intermediates/res/merged/release/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "/Users/anil/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
