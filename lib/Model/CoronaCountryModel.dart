@@ -8,6 +8,7 @@ class CronaCasesParentObject {
       : data = json['data']
             .map<CronaCases>((i) => CronaCases.fromJson(i))
             .toList();
+
 }
 
 class CronaCases {
