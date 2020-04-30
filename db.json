@@ -1,22 +1,22 @@
 {
 "question": [
 {
-"question": "What is an array?",
-"answer": "b",
+"question": "उस वन का क्या नाम था जिसे जलाकर पांडवों ने वहाँ इंद्रप्रस्थ नगर बसाया था?",
+"answer": "c",
 "option": [
 {
-"text": "nothing",
+"text": "काम्यक",
 "answer": "a"
 },{
-"text": "hetrogenous",
+"text": "द्वैत",
 "answer": "b"
 },
 {
-"text": "soda",
+"text": "खांडव",
 "answer": "c"
 },
 {
-"text": "Go home",
+"text": "खांडव",
 "answer": "d"
 }]
 },
