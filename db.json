@@ -21,23 +21,105 @@
 }]
 },
 {
-"question": "What is an cpu?",
-"answer": "c",
+"question": "उस राक्षसी का क्या नाम था जिसने दो टुकड़ों में विभक्त शिशु जरासंध को एक में जोड़ दिया था?",
+"answer": "d",
 "option": [
 {
-"text": "nothing",
+"text": "हिडिंबा",
 "answer": "a"
 },{
-"text": "control please",
+"text": "कामकंटकटा",
 "answer": "b"
-},{
-"text": "control processing unit",
+},
+{
+"text": "पूतना",
 "answer": "c"
+},
+{
+"text": "जरा",
+"answer": "d"
+}]
+},
+{
+"question": "अर्जुन की मृत्यु हो जाने पर उलूपी ने जिस वस्तु से उन्हें पुनः जीवित किया था उसका क्या नाम था?",
+"answer": "a",
+"option": [
+{
+"text": "संजीवन मणि",
+"answer": "a"
 },{
-"text": "Go corona go",
+"text": "दिव्य ओषधि",
+"answer": "b"
+},
+{
+"text": "स्वर्ग-जल",
+"answer": "c"
+},
+{
+"text": "नाग-बूटिका",
+"answer": "d"
+}]
+},
+{
+"question": "श्रीकृष्ण के शंख का क्या नाम था?",
+"answer": "b",
+"option": [
+{
+"text": "विजय",
+"answer": "a"
+},{
+"text": "पाञ्चजन्य",
+"answer": "b"
+},
+{
+"text": "उद्घोष",
+"answer": "c"
+},
+{
+"text": "जलज",
+"answer": "d"
+}]
+},
+{
+"question": "भीष्म पितामह का बाल्यावस्था का क्या नाम था?",
+"answer": "a",
+"option": [
+{
+"text": "देवव्रत",
+"answer": "a"
+},{
+"text": "वरुण",
+"answer": "b"
+},
+{
+"text": "यौधेय",
+"answer": "c"
+},
+{
+"text": "वत्स",
+"answer": "d"
+}]
+},
+{
+"question": "अज्ञातवास के समय जब पांडव मत्स्य देश में राजा विराट के यहाँ रह रहे थे तो उस समय ‘कंक’ किस पांडव का नाम था?",
+"answer": "b",
+"option": [
+{
+"text": "सहदेव",
+"answer": "a"
+},{
+"text": "युधिष्ठिर",
+"answer": "b"
+},
+{
+"text": "नकुल",
+"answer": "c"
+},
+{
+"text": "भीम",
 "answer": "d"
 }
 ]
 }
-  ]
+]
 }
