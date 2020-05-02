@@ -3,6 +3,8 @@
 {
 "question": "उस वन का क्या नाम था जिसे जलाकर पांडवों ने वहाँ इंद्रप्रस्थ नगर बसाया था?",
 "answer": "c",
+"mode": "easy",
+"category": "Mahabharat",
 "option": [
 {
 "text": "काम्यक",
@@ -23,6 +25,8 @@
 {
 "question": "उस राक्षसी का क्या नाम था जिसने दो टुकड़ों में विभक्त शिशु जरासंध को एक में जोड़ दिया था?",
 "answer": "d",
+"mode": "hard",
+"category": "Mahabharat",
 "option": [
 {
 "text": "हिडिंबा",
@@ -43,6 +47,8 @@
 {
 "question": "अर्जुन की मृत्यु हो जाने पर उलूपी ने जिस वस्तु से उन्हें पुनः जीवित किया था उसका क्या नाम था?",
 "answer": "a",
+"mode": "medium",
+"category": "Mahabharat",
 "option": [
 {
 "text": "संजीवन मणि",
@@ -63,6 +69,8 @@
 {
 "question": "श्रीकृष्ण के शंख का क्या नाम था?",
 "answer": "b",
+"mode": "easy",
+"category": "Mahabharat",
 "option": [
 {
 "text": "विजय",
@@ -83,6 +91,8 @@
 {
 "question": "भीष्म पितामह का बाल्यावस्था का क्या नाम था?",
 "answer": "a",
+"mode": "easy",
+"category": "Mahabharat",
 "option": [
 {
 "text": "देवव्रत",
@@ -103,6 +113,8 @@
 {
 "question": "अज्ञातवास के समय जब पांडव मत्स्य देश में राजा विराट के यहाँ रह रहे थे तो उस समय ‘कंक’ किस पांडव का नाम था?",
 "answer": "b",
+"mode": "medium",
+"category": "Mahabharat",
 "option": [
 {
 "text": "सहदेव",
@@ -124,6 +136,8 @@
 {
 "question": "‘दामोदर’ किसका नाम था?",
 "answer": "a",
+"mode": "easy",
+"category": "Mahabharat",
 "option": [
 {
 "text": "श्रीकृष्ण",
@@ -144,6 +158,8 @@
 {
 "question": "इंद्रप्रस्थ के निर्माण के पश्चात् युधिष्ठिर ने जो यज्ञ किया था उसका क्या नाम था?",
 "answer": "c",
+"mode": "hard",
+"category": "Mahabharat",
 "option": [
 {
 "text": "अश्वमेध",
@@ -164,6 +180,8 @@
 {
 "question": "उस युग का क्या नाम था, जिसमें महाभारत युद्ध हुआ था?",
 "answer": "b",
+"mode": "easy",
+"category": "Mahabharat",
 "option": [
 {
 "text": "त्रेतायुग",
@@ -184,6 +202,8 @@
 {
 "question": "उन ऋषि का क्या नाम था जो वनवास के समय पांडवों के आश्रम पर शिष्यों सहित भोजन करने के लिए आए थे और द्रौपदी की रसोई में उस समय कुछ न था?",
 "answer": "b",
+"mode": "medium",
+"category": "Mahabharat",
 "option": [
 {
 "text": "विश्वामित्र",
@@ -198,6 +218,28 @@
 },
 {
 "text": "अत्रि",
+"answer": "d"
+}]
+},
+{
+"question": " In the epic Ramayana, which bird tried to prevent Ravana from carrying Sita away?",
+"answer": "b",
+"mode": "medium",
+"category": "Ramayan",
+"option": [
+{
+"text": "Vibhishan",
+"answer": "a"
+},{
+"text": "Jatayu",
+"answer": "b"
+},
+{
+"text": "Garuda",
+"answer": "c"
+},
+{
+"text": "Bhulinga",
 "answer": "d"
 }]
 }
